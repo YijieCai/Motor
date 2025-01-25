@@ -56,4 +56,6 @@
 
 * ## **视频演示**
 
-暂无，可以直接下载01Chart文件夹中的mp4文件
+链接：https://www.bilibili.com/video/BV1XnffY6EpW/?spm_id_from=333.1387.list.card_archive.click&vd_source=5810ca6d047dda6bbad5ac065b7f84a7
+
+也可以直接下载01Chart文件夹中的mp4文件
