@@ -8,7 +8,7 @@
 
 * ## **手动控制步进电机**
 <div align=center>
-  <img width="300" src="01Chart/Display_All.png"/>
+  <img width="300" src="00Chart/Display_All.png"/>
   <div align=center><strong>总图</strong></div>
 </div><br>    
 
@@ -24,14 +24,14 @@
 * ## **电机**
 
 <div align=center>
-  <img width="300" src="01Chart/Display_Step_Motor.png"/>
+  <img width="300" src="00Chart/Display_Step_Motor.png"/>
   <div align=center><strong>28BYJ-48步进电机(5V DC)</strong></div>
 </div><br>    
 
 * ## **电源模块**
 
 <div align=center>
-  <img width="300" src="01Chart/Display_Power_Module.png"/>
+  <img width="300" src="00Chart/Display_Power_Module.png"/>
   <div align=center><strong>电源模块</strong></div>
 </div><br>    
 
@@ -42,8 +42,8 @@
 * ## **驱动板**
 
 <div align=center>
-  <img width="212" src="01Chart/Display_Drive1.png"/>
-  <img width="230" src="01Chart/Display_Drive2.png"/>
+  <img width="212" src="00Chart/Display_Drive1.png"/>
+  <img width="230" src="00Chart/Display_Drive2.png"/>
   <div align=center><strong>驱动板</strong></div>
 </div><br>    
 
